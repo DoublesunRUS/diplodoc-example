@@ -3,8 +3,8 @@ href: index.yaml
 items: 
   - name: О приложении
     href: about.md
-  - name: Additional page 
-    href: page.md
+  - name: Технологии 
+    href: parties.md
   - name: Another page 
     href: anotherpage.md
   - name: Sub-Section 
