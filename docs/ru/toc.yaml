@@ -1,7 +1,7 @@
-title: Documentation Project Template
+title: Enterprise Architecture Framework
 href: index.yaml
 items: 
-  - name: About
+  - name: О приложении
     href: about.md
   - name: Additional page 
     href: page.md
