@@ -1,5 +1,7 @@
-title: Sub-section Example TOC
+title: Администраторам
 href: index.yaml
 items:
-  - name: Content page under sub-section
-    href: content.md
+  - name: Выгрузка в файл
+    href: export.md
+  - name: Загрузка из файла
+    href: import.md
