@@ -4,7 +4,7 @@ links:
     href: about.md
   - title: Технологии
     href: parties.md
-  - title: YFM Structure on index page
-    href: anotherpage.md
-  - title: Sub-section on index page
-    href: sub-section/
+  - title: Процессы
+    href: processes.md
+  - title: Администрирование
+    href: admin/

@@ -5,9 +5,9 @@ items:
     href: about.md
   - name: Технологии 
     href: parties.md
-  - name: Another page 
-    href: anotherpage.md
-  - name: Sub-Section 
+  - name: Процессы 
+    href: processes.md
+  - name: Администрирование 
     include:
-      path: sub-section/toc.yaml
+      path: admin/toc.yaml
       mode: link
